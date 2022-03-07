@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/divriots.my-design-system",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve toGdVgc9tT7wlKECzIVd --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
