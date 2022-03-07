@@ -8,6 +8,11 @@
   "scripts": {
     "serve": "npx backlight@latest serve toGdVgc9tT7wlKECzIVd --open"
   },
-  "devDependencies": {},
-  "dependencies": {}
+  "devDependencies": {
+    "@mdx-js/react": "*",
+    "@divriots/dockit-react": "*"
+  },
+  "dependencies": {
+    "react": "*"
+  }
 }
