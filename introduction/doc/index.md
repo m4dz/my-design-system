@@ -1,5 +1,3 @@
-# My Design System
-
 If you are starting with [Backlight](https://backlight.dev), check the links below:
 
 - [Explore starter-kits](https://backlight.dev/starterkits)
